@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94704697587'] // owner number
+global.vcardowner = ['+94704697586'] // owner number
 global.ownername = "😎.....🄹🄰🄽🄸🄳🅄  🅂🄴🅅🄸🄽🄳🄰.....❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94704697586']
+global.ownertag = '+94704697586' //your tag number
 global.botname = 'JANIDU - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = ".....🄹🄰🄽🄸🄳🅄  🅂🄴🅅🄸🄽🄳🄰....." // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+94704697587'] //ur premium numbers
+global.premium = ['+94704697586'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
